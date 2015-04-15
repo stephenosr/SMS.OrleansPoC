@@ -1,0 +1,25 @@
+/nomerge
+/in:obj\Debug\IFeePaymentGrain.dll
+/key:
+/d:DEBUG;TRACE
+/rns:IFeePaymentGrain
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Microsoft.CSharp.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll
+/r:F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\packages\Microsoft.Orleans.Core.1.0.5\lib\net45\Orleans.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Core.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.DataSetExtensions.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll
+/r:C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.Linq.dll
+/fsharp:C:\Program Files (x86)\MSBuild\..\Microsoft SDKs\F#\3.1\Framework\v4.0\fsc.exe
+/cwd:F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\IFeePaymentGrain\
+/config:Debug
+/OptionExplicit:
+/OptionCompare:
+/OptionStrict:
+/OptionInfer:
+/MyType:
+/src:IFeePaymentGrain.cs
+/src:Properties\orleans.codegen.cs
+/src:Properties\AssemblyInfo.cs

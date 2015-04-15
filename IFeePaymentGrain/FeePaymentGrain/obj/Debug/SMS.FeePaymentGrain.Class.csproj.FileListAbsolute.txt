@@ -1,0 +1,11 @@
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.FeePaymentGrain.Class.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.FeePaymentGrain.Class.pdb
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\Orleans.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.Definitions.Classes.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.IFeePaymentGrain.Interfaces.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.IFeePaymentGrain.Interfaces.pdb
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\SMS.Definitions.Classes.pdb
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\bin\Debug\Orleans.xml
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\obj\Debug\SMS.FeePaymentGrain.Class.csprojResolveAssemblyReference.cache
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\obj\Debug\SMS.FeePaymentGrain.Class.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\FeePaymentGrain\obj\Debug\SMS.FeePaymentGrain.Class.pdb

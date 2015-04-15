@@ -1,0 +1,1 @@
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\SMS.Host\SiloHost1\obj\Debug\SiloHost1.csprojResolveAssemblyReference.cache

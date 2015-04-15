@@ -1,0 +1,12 @@
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\SMS.Definitions.Classes.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\SMS.Definitions.Classes.pdb
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Orleans.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Microsoft.Data.Edm.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Microsoft.Data.Services.Client.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Microsoft.Data.OData.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\System.Spatial.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\bin\Debug\Orleans.xml
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\obj\Debug\SMS.Definitions.Classes.dll
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\IFeePaymentGrain\SMS.Definitions.Classes\obj\Debug\SMS.Definitions.Classes.pdb

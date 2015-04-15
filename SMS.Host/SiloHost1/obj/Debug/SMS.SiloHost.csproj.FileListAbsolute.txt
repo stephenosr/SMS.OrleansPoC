@@ -1,0 +1,8 @@
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\DevTestClientConfiguration.xml
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\DevTestServerConfiguration.xml
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\SMS.SiloHost.exe.config
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\SMS.SiloHost.exe
+C:\Microsoft Project Orleans SDK v1.0\SDK\LocalSilo\SMS.SiloHost.pdb
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\SMS.Host\SiloHost1\obj\Debug\SMS.SiloHost.csprojResolveAssemblyReference.cache
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\SMS.Host\SiloHost1\obj\Debug\SMS.SiloHost.exe
+F:\Projects\Brightsword\SMSv2\Azure_Orleans\SMS.Host\SiloHost1\obj\Debug\SMS.SiloHost.pdb
